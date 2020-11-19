@@ -64,7 +64,7 @@ background-image: url("coba1.gif");
 
 <center>
 <div class="animasi-teks">
-	<h1><font face="tipe_font_face" color="white">Haiii, Omedeto</font></h1>
+	<h1><font face="tipe_font_face" color="white">Haiii, Miaaa :) </font></h1>
 </div>
 </center>
  
@@ -80,8 +80,8 @@ background-image: url("coba1.gif");
 	</div>
 </div>
  <center>
- 	<h2><font face="tipe_font_face" color="white">Selamat Semprotulation</font></h2>
- 	<h2><font face="tipe_font_face" color="white">Gas Keun Teruss</font></h2>
+ 	<h2><font face="tipe_font_face" color="white">Semprotulation Yaaaaa!</font></h2>
+ 	<h2><font face="tipe_font_face" color="white">Gas Keun Teruss - Gk acci Mundur </font></h2>
  	<h2><font face="tipe_font_face" color="white"> -Ben :v </font></h2>
  
 
