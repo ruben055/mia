@@ -96,7 +96,7 @@
             <p>I really hope you give me opportunity to join your company or stduio to raise my experience. Thank You</p>
              </div>
           <div class="col-md-4">
-            <img src="foto.jpg" alt="Image" class="img-fluid">
+            <img src="images/foto.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-4">
             
