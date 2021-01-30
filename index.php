@@ -77,7 +77,7 @@
             <div class="col-md-7 text-center">
               <h1 class="mb-4 text-white">Hi!! Welcome to my portfolio.</h1>
               <p class="mb-4">Click the button below to see my CV</p>
-              <p><a href="https://drive.google.com/file/d/1j3B_aVhuoSmwb5w61T0wQCVKqf7s0ydK/view?usp=sharing" class="btn btn-primary btn-outline-white py-3 px-5">My CV</a></p>
+              <p><a href="https://drive.google.com/file/d/17I0YjiSAoQLUQH1JrK-s7FcxHInjGh-b/view?usp=sharing" class="btn btn-primary btn-outline-white py-3 px-5">My CV</a></p>
             </div>
           </div>
         </div>
@@ -96,7 +96,7 @@
             <p>I really hope you give me opportunity to join your company or stduio to raise my experience. Thank You</p>
              </div>
           <div class="col-md-4">
-            <img src="images/diri_1.jpg" alt="Image" class="img-fluid">
+            <img src="images/diri_2.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-4">
             
