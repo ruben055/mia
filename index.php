@@ -71,7 +71,7 @@
       </header>
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" style="background-image: url('images/hero_1.jpg')">
+      <div class="site-section-cover overlay" style="background-image: url('images/Home_1.jpg')">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center">
@@ -96,7 +96,7 @@
             <p>I really hope you give me opportunity to join your company or stduio to raise my experience. Thank You</p>
              </div>
           <div class="col-md-4">
-            <img src="images/foto.jpg" alt="Image" class="img-fluid">
+            <img src="images/diri_1.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-4">
             
